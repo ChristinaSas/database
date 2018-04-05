@@ -1,0 +1,28 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "server.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.13"
+  },
+  "scripts": {
+    "test": "asdf",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asdf"
+  },
+  "keywords": [
+    "asdf"
+  ],
+  "author": "asdf",
+  "license": "ISC"
+}
